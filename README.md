@@ -8,7 +8,7 @@ A repository for public data for the US Air Force Academy Class of 1965
 
 Our class is the seventh class to graduate, and we are having our 60-year class reunion at the Polaris Hotel at USAFA, just north of Colorado Springs, Colorado, 11-14 September 2025.
 
-We are trying to gather names of classmates attending, so we would appreciate you letting us know by doing the following:
+We are trying to gather names of classmates attending the reunion. We would appreciate you letting us know if you plan to attend by doing the following:
 
     Send a ONE LINE email  TO: tom.browder@gmail.com
                            CC: dconnaughton65@gmail.com, bswick3@cox.net
