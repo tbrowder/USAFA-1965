@@ -1,5 +1,3 @@
-[![Actions Status](https://github.com/tbrowder/USAFA-1965/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/USAFA-1965/actions) [![Actions Status](https://github.com/tbrowder/USAFA-1965/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/USAFA-1965/actions) [![Actions Status](https://github.com/tbrowder/USAFA-1965/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/USAFA-1965/actions)
-
 USAFA-1967
 ==========
 
