@@ -21,7 +21,7 @@ Known attendees:
 
 <table class="pod-table">
 <thead><tr>
-<th>Last name</th> <th>First name| CS-nn</th> <th>Guest</th> <th></th>
+<th>Last name</th> <th>First name</th> <th>CS-nn</th> <th>Guest</th>
 </tr></thead>
 <tbody>
 <tr> <td>Browder</td> <td>Tom</td> <td>CS-24</td> <td>Missy</td> </tr>
