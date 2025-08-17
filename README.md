@@ -23,10 +23,10 @@ Known attendees:
 
 <table class="pod-table">
 <thead><tr>
-<th>Last</th> <th>First</th> <th>CS-NN</th> <th>Guest</th>
+<th>Last name</th> <th>First name| CS-nn</th> <th>Guest</th> <th></th>
 </tr></thead>
 <tbody>
-<tr> <td>Browder</td> <td>Tom</td> <td>CD-24</td> <td>Missy</td> </tr>
+<tr> <td>Browder</td> <td>Tom</td> <td>CS-24</td> <td>Missy</td> </tr>
 </tbody>
 </table>
 
