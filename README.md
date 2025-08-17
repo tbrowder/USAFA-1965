@@ -16,4 +16,8 @@ In the body of the mail put ONLY ONE LINE IN THE FOLLOWING FORMAT:
 last-name, first-name, CS-NN, guest-first-name (or NONE)
 ```
 
+
+```
+Attendees:
+```
 Browder, Tom, CS-24, Missy
