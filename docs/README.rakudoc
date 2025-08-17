@@ -24,10 +24,10 @@ last-name, first-name, CS-NN, guest-first-name (or NONE)
 =head2 Known attendees:
 
 =begin table
-Last name | First name| CS-nn | Guest
-==========+===========+=======+======
-Browder   | Tom       | CS-24 | Missy
-----------+-----------+-------+------
+Last name | First name | CS-nn | Guest
+==========+============+=======+======
+Browder   | Tom        | CS-24 | Missy
+----------+------------+-------+------
 =end table
 
 =end pod
