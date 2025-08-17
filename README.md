@@ -16,15 +16,27 @@ We are trying to gather names of classmates attending, so we would appreciate yo
 
     last-name, first-name, CS-nn, guest-first-name (or NONE)
 
-Known attendees:
+Known Attendees:
 ----------------
 
 <table class="pod-table">
 <thead><tr>
-<th>Last name</th> <th>First name</th> <th>CS-nn</th> <th>Guest</th>
+<th>Ref</th> <th>Last name</th> <th>First name</th> <th>CS-nn</th> <th>Guest</th>
 </tr></thead>
 <tbody>
-<tr> <td>Browder</td> <td>Tom</td> <td>CS-24</td> <td>Missy</td> </tr>
+<tr> <td>1</td> <td>Browder</td> <td>Tom</td> <td>CS-24</td> <td>Missy</td> </tr> <tr> <td>2</td> <td>Connaughton</td> <td>Dave</td> <td>CS-16</td> <td></td> </tr> <tr> <td>3</td> <td>Swick</td> <td>Bill</td> <td>CS-23</td> <td>Mary</td> </tr>
+</tbody>
+</table>
+
+Contact Data (with permission)
+------------------------------
+
+<table class="pod-table">
+<thead><tr>
+<th>Ref</th> <th>Telephone</th> <th>Type</th> <th>E-mail</th>
+</tr></thead>
+<tbody>
+<tr> <td>1</td> <td>850-830-8078</td> <td>mobile</td> <td>tom.browder@gmail.com</td> </tr> <tr> <td>2</td> <td></td> <td>mobile</td> <td></td> </tr> <tr> <td>3</td> <td></td> <td>land</td> <td></td> </tr>
 </tbody>
 </table>
 

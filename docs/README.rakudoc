@@ -21,13 +21,29 @@ In the body of the mail put ONLY ONE LINE IN THE FOLLOWING FORMAT:
 last-name, first-name, CS-nn, guest-first-name (or NONE)
 =end code
 
-=head2 Known attendees:
+=head2 Known Attendees:
 
 =begin table
-Last name | First name | CS-nn | Guest
-==========+============+=======+======
-Browder   | Tom        | CS-24 | Missy
-----------+------------+-------+------
+Ref | Last name   | First name | CS-nn | Guest
+====+=============+============+=======+======
+1   | Browder     | Tom        | CS-24 | Missy
+----+-------------+------------+-------+------
+2   | Connaughton | Dave       | CS-16
+----+-------------+------------+-------+------
+3   | Swick       | Bill       | CS-23 | Mary
+=end table
+
+=head2 Contact Data (with permission)
+
+=begin table
+Ref | Telephone    | Type   | E-mail
+====+==============+========+======================
+1   | 850-830-8078 | mobile | tom.browder@gmail.com
+----+--------------+--------+----------------------
+2   |              | mobile |
+----+--------------+--------+----------------------
+3   |              | land   |
+----+--------------+--------+----------------------
 =end table
 
 =end pod
