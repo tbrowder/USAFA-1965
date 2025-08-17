@@ -38,11 +38,9 @@ Ref | Last name   | First name | CS-nn | Guest
 =begin table
 Ref | Telephone    | Type   | E-mail
 ====+==============+========+======================
-1   | 850-830-8078 | mobile | tom.browder@gmail.com
+X   | nnn-nnn-nnnn | mobile | joe@mymail.org
 ----+--------------+--------+----------------------
-2   |              | mobile |
-----+--------------+--------+----------------------
-3   |              | land   |
+Y   | nnn-nnn-nnnn | land   | sam@example.com
 ----+--------------+--------+----------------------
 =end table
 
