@@ -14,7 +14,7 @@ We are trying to gather names of classmates attending, so we would appreciate yo
 
     In the body of the mail put ONLY ONE LINE IN THE FOLLOWING FORMAT:
 
-    last-name, first-name, CS-NN, guest-first-name (or NONE)
+    last-name, first-name, CS-nn, guest-first-name (or NONE)
 
 Known attendees:
 ----------------
