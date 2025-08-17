@@ -1,4 +1,4 @@
-USAFA-1967
+USAFA-1965
 ==========
 
 A repository for public data for the US Air Force Academy Class of 1965
