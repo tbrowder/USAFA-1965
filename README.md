@@ -36,7 +36,7 @@ Contact Data (with permission)
 <th>Ref</th> <th>Telephone</th> <th>Type</th> <th>E-mail</th>
 </tr></thead>
 <tbody>
-<tr> <td>1</td> <td>850-830-8078</td> <td>mobile</td> <td>tom.browder@gmail.com</td> </tr> <tr> <td>2</td> <td></td> <td>mobile</td> <td></td> </tr> <tr> <td>3</td> <td></td> <td>land</td> <td></td> </tr>
+<tr> <td>X</td> <td>nnn-nnn-nnnn</td> <td>mobile</td> <td>joe@mymail.org</td> </tr> <tr> <td>Y</td> <td>nnn-nnn-nnnn</td> <td>land</td> <td>sam@example.com</td> </tr>
 </tbody>
 </table>
 
