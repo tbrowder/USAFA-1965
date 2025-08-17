@@ -8,7 +8,7 @@ Members known to be attending:
 
 ```
 TBA: send a ONE LINE email  TO: tom.browder@gmail.com
-                            CC: dconnaughton65@gmail.com  
+                            CC: dconnaughton65@gmail.com, bswick3@cox.net
                           SUBJ: USAFA-1965 class reunion
 
 In the body of the mail put ONLY ONE LINE IN THE FOLLOWING FORMAT:
