@@ -6,5 +6,3 @@ Our class is the seventh class to graduate, and we are having our 60-year class 
 11-14 Swptember 2025.
 
 Members known to be attending:
-
-
