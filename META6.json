@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides data and routines to support the AF Academy class of 1965\n",
+  "license": "Artistic-2.0",
+  "name": "USAFA-1965",
+  "perl": "6.d",
+  "provides": {
+    "USAFA-1965": "lib/USAFA-1965.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
