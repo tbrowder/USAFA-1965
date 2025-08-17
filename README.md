@@ -6,6 +6,7 @@ Our class is the seventh class to graduate, and we are having our 60-year class 
  
 Members known to be attending:
 
+```
 TBA: send a ONE LINE email  TO: tom.browder@gmail.com
                             CC: dconnaughton65@gmail.com  
                           SUBJ: USAFA-1965 class reunion
@@ -13,4 +14,5 @@ TBA: send a ONE LINE email  TO: tom.browder@gmail.com
 In the body of the mail put ONLY ONE LINE IN THE FOLLWING FORMAT:
 
 last-name, first-name, CS-NN, guest-first-name (or NONE)
+```
 
