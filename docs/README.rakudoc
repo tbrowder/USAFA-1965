@@ -20,9 +20,14 @@ Send a ONE LINE email  TO: tom.browder@gmail.com
                        CC: dconnaughton65@gmail.com, bswick3@cox.net
                      SUBJ: USAFA-1965 class reunion
 
-In the body of the mail put ONLY ONE LINE IN THE FOLLOWING FORMAT:
+In the body of the mail put ONLY ONE LINE IN ONE OF THE FOLLOWING FORMATS:
 
 last-name, first-name, CS-nn, guest-first-name (or NONE)
+
+  OR
+
+last-name, first-name, CS-nn, NOT ATTENDING
+
 =end code
 
 =head2 Known Attendees:

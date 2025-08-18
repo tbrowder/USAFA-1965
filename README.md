@@ -14,9 +14,13 @@ We are trying to gather names of classmates attending the reunion. We would appr
                            CC: dconnaughton65@gmail.com, bswick3@cox.net
                          SUBJ: USAFA-1965 class reunion
 
-    In the body of the mail put ONLY ONE LINE IN THE FOLLOWING FORMAT:
+    In the body of the mail put ONLY ONE LINE IN ONE OF THE FOLLOWING FORMATS:
 
     last-name, first-name, CS-nn, guest-first-name (or NONE)
+
+      OR
+
+    last-name, first-name, CS-nn, NOT ATTENDING
 
 Known Attendees:
 ----------------
